@@ -21,17 +21,16 @@ with the level of the challenges in the website.
 
 Solved 5 challenges
 
-     **Challenge**                                 **Rank Points**      **Language**
-     Fizz Buzz                                   28.855           Java
-     Odd Numbers                                 30.500           JavaScript
-     File Size                                   30.577           C#
+     Fizz Buzz                                   28.855 pts       Java
+     Odd Numbers                                 30.500 pts       JavaScript
+     File Size                                   30.577 pts       C#
 
 
 ### Moderate
 
 Solved 1 challenges
 
-     Longest Lines                               64.892           C++
+     Longest Lines                               64.892 pts       C++
 
 ### Hard
 
