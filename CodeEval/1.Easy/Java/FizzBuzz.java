@@ -70,7 +70,7 @@ public class FizzBuzz {
 	
 	public static void main(String[] args) {
 
-		readInput("input.txt");
+		readInput("FizzBuzzInput.txt");
 
 	}
 	

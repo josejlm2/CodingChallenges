@@ -4,13 +4,13 @@ using System.IO;
 
 namespace FileSize
 {
-    class Program
+    class FileSize
     {
         public static void Main()
         {
             try
             {
-                using (StreamReader sr = new StreamReader("test.txt"))
+                using (StreamReader sr = new StreamReader("FileSizeInput.txt"))
                 {
                     String line = sr.ReadToEnd();                  
                     Console.WriteLine(line.Length);
