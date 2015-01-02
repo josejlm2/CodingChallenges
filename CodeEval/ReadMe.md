@@ -4,7 +4,7 @@
 
 "[Code Eval](https://www.codeeval.com) is a platform used by developers to showcase their skills. Developers can participate in app building competitions and win cash/prizes. They can also solve programming challenges as a way to impress employers with their technical skills. Employers can use CodeEval as a way to enhance their brand by launching competitions/programming challenges and as a means to get introduced to the best developers."
 
-You can check my [profile](https://www.codeeval.com/profile/josejlm2/) to check my most up to date progress. 
+You can check my [profile](https://www.codeeval.com/profile/josejlm2/) to see my most up to date progress. 
 
 
 ## About this repository
@@ -16,7 +16,9 @@ interrupted by Code Eval).
 ### Contents:
 
 There are 3 directories, `easy/`, `moderate/` and `hard/` corresponding
-with the level of the challenges in the website. 
+with the level of the challenges in the website. Within each folder, the 
+challenges are separated into the languages that were used to solve the 
+problem. 
 
 
 ### Easy
