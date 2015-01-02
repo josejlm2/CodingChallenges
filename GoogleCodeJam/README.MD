@@ -1,6 +1,6 @@
-<div style="text-align:center"><img src ="http://www.hardgamma.com/wp-content/uploads/2012/10/codility-big.png" /></div>
+<div style="text-align:center"><img src ="http://code.google.com/codejam/contest/static/gcj-2009-shirt-back.jpg" /></div>
 
-Codility
+Google Code Jam
 ================
 
-Codility training program. 
+The Annual Google Code Jam Competition 
