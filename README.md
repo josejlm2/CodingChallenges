@@ -1,6 +1,6 @@
-<div style="text-align:center"><img src ="http://www.coderina.org/wp-content/uploads/2014/01/code-challenge.png" /></div>
+<div style="text-align:center"></div>
 
-CodingChallenges
+<img src ="https://farm8.staticflickr.com/7365/16471100755_95d6435a2d_s.jpg" /> CodingChallenges
 ================
 
 Coding challenges I have completed, I'm working on, or will complete
