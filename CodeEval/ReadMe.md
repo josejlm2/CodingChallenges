@@ -26,7 +26,7 @@ problem.
 Solved 12 challenges
 
       1.  Fizz Buzz                     444 ms         6164480 bytes            28.855 pts          Java
-      2.  Odd Numbers                   188 ms         4997120 bytes            30.500 pts          JavaScript
+      2.  Odd Numbers                   188 ms         4997120 bytes            30.500 pts          JS
       3.  File Size                     156 ms         4972544 bytes            30.577 pts          C#
       4.  Even Numbers                  269 ms         6438912 bytes            29.155 pts          Java
       5.  Multiplication Tables         108 ms         7036928 bytes            28.939 pts          PHP
