@@ -23,26 +23,27 @@ problem.
 
 ### Easy
 
-Solved 11 challenges
+Solved 12 challenges
 
-     Fizz Buzz                     444 ms         6164480 bytes            28.855 pts          Java
-     Odd Numbers                   188 ms         4997120 bytes            30.500 pts          JavaScript
-     File Size                     156 ms         4972544 bytes            30.577 pts          C#
-     Even Numbers                  269 ms         6438912 bytes            29.155 pts          Java
-     Multiplication Tables         108 ms         7036928 bytes            28.939 pts          PHP
-     Lowercase                     221 ms         3723264 bytes            31.506 pts          Python 3
-     Prime Palindrome              119 ms         3467690 bytes            31.852 pts          Ruby
-     Sum of Digits                  72 ms         3470353 bytes            32.038 pts          Ruby
-     Sum of Primes                6082 ms         4583424 bytes            20.530 pts          Ruby
-     Sum of Integers From File      72 ms         3465737 bytes            34.077 pts          Ruby
-     Longest Word                   74 ms         3480197 bytes            31.847 pts          Ruby
+      1.  Fizz Buzz                     444 ms         6164480 bytes            28.855 pts          Java
+      2.  Odd Numbers                   188 ms         4997120 bytes            30.500 pts          JavaScript
+      3.  File Size                     156 ms         4972544 bytes            30.577 pts          C#
+      4.  Even Numbers                  269 ms         6438912 bytes            29.155 pts          Java
+      5.  Multiplication Tables         108 ms         7036928 bytes            28.939 pts          PHP
+      6.  Lowercase                     221 ms         3723264 bytes            31.506 pts          Python 3
+      7.  Prime Palindrome              119 ms         3467690 bytes            31.852 pts          Ruby
+      8.  Sum of Digits                  72 ms         3470353 bytes            32.038 pts          Ruby
+      9.  Sum of Primes                6082 ms         4583424 bytes            20.530 pts          Ruby
+     10.  Sum of Integers From File      72 ms         3465737 bytes            34.077 pts          Ruby
+     11.  Longest Word                   74 ms         3480197 bytes            31.847 pts          Ruby
+     12.  Bit Positions                  73 ms         3479535 bytes            34.415 pts          Ruby
      
 ### Moderate
 
 Solved 2 challenges
 
-     Longest Lines                 100 ms            4096 bytes            64.892 pts          C++
-     Conting Primes                799 ms         3493391 bytes            58.050 pts          Ruby
+      1.  Longest Lines                 100 ms            4096 bytes            64.892 pts          C++
+      2.  Conting Primes                799 ms         3493391 bytes            58.050 pts          Ruby
 
 ### Hard
 
