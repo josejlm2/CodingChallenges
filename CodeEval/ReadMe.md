@@ -39,7 +39,7 @@ Solved 11 challenges
      
 ### Moderate
 
-Solved 1 challenges
+Solved 2 challenges
 
      Longest Lines                 100 ms            4096 bytes            64.892 pts          C++
      Conting Primes                799 ms         3493391 bytes            58.050 pts          Ruby
