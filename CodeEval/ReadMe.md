@@ -23,7 +23,7 @@ problem.
 
 ### Easy
 
-Solved 8 challenges
+Solved 9 challenges
 
      Fizz Buzz                     444 ms         6164480 bytes            28.855 pts          Java
      Odd Numbers                   188 ms         4997120 bytes            30.500 pts          JavaScript
@@ -33,7 +33,9 @@ Solved 8 challenges
      Lowercase                     221 ms         3723264 bytes            31.506 pts          Python 3
      Prime Palindrome              119 ms         3467690 bytes            31.852 pts          Ruby
      Sum of Digits                  72 ms         3470353 bytes            32.038 pts          Ruby
-
+     Sum of Primes                6082 ms         4583424 bytes            20.530 pts          Ruby
+     
+     
 ### Moderate
 
 Solved 1 challenges
