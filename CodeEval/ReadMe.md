@@ -37,13 +37,15 @@ Solved 12 challenges
      10.  Sum of Integers From File      72 ms         3465737 bytes            34.077 pts          Ruby
      11.  Longest Word                   74 ms         3480197 bytes            31.847 pts          Ruby
      12.  Bit Positions                  73 ms         3479535 bytes            34.415 pts          Ruby
+ 
      
 ### Moderate
 
-Solved 2 challenges
+Solved 3 challenges
 
       1.  Longest Lines                 100 ms            4096 bytes            64.892 pts          C++
       2.  Conting Primes                799 ms         3493391 bytes            58.050 pts          Ruby
+      3.  Email Validation               72 ms         3469909 bytes            64.653 pts          Ruby
 
 ### Hard
 
