@@ -23,7 +23,7 @@ problem.
 
 ### Easy
 
-Solved 12 challenges
+Solved 13 challenges
 
       1.  Fizz Buzz                     444 ms         6164480 bytes            28.855 pts          Java
       2.  Odd Numbers                   188 ms         4997120 bytes            30.500 pts          JS
