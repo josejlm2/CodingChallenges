@@ -23,7 +23,7 @@ problem.
 
 ### Easy
 
-Solved 13 challenges
+Solved 14 challenges
 
       1.  Fizz Buzz                     444 ms         6164480 bytes            28.855 pts          Java
       2.  Odd Numbers                   188 ms         4997120 bytes            30.500 pts          JS
@@ -38,7 +38,7 @@ Solved 13 challenges
      11.  Longest Word                   74 ms         3480197 bytes            31.847 pts          Ruby
      12.  Bit Positions                  73 ms         3479535 bytes            34.415 pts          Ruby
      13.  Multiply Lists                 76 ms         3489141 bytes            31.534 pts          Ruby
- 
+     14.  Reverse Words                  74 ms         3478173 bytes            31.928 pts          Ruby
      
 ### Moderate
 
