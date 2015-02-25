@@ -20,10 +20,18 @@ with the level of the challenges in the website. Within each folder, the
 challenges are separated into the languages that were used to solve the 
 problem. 
 
+##Rank
+
+      World:            3,810 out of 15,558    
+      United States:    1,881 out of  6,849     
+      College Sation:       2 out of     10    
+
+
+##Code Eval Problems
 
 ### Easy
 
-Solved 14 challenges
+Solved 15 challenges
 
       1.  Fizz Buzz                     444 ms         6164480 bytes            28.855 pts          Java
       2.  Odd Numbers                   188 ms         4997120 bytes            30.500 pts          JS
@@ -39,6 +47,7 @@ Solved 14 challenges
      12.  Bit Positions                  73 ms         3479535 bytes            34.415 pts          Ruby
      13.  Multiply Lists                 76 ms         3489141 bytes            31.534 pts          Ruby
      14.  Reverse Words                  74 ms         3478173 bytes            31.928 pts          Ruby
+     15.  Find a Writer                  92 ms         3550637 bytes            31.291 pts          Ruby
      
 ### Moderate
 
