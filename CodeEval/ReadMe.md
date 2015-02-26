@@ -22,16 +22,18 @@ problem.
 
 ##Rank
 
-      World:            3,810 out of 15,558    
-      United States:    1,881 out of  6,849     
+      World:            3,699 out of 15,622    
+      United States:    1,827 out of  6,871     
       College Sation:       2 out of     10    
+      
+      Points:                       679 pts
 
 
-##Code Eval Problems
+##Code Eval Problems(19 Completed)
 
 ### Easy
 
-Solved 15 challenges
+Solved 16 challenges
 
       1.  Fizz Buzz                     444 ms         6164480 bytes            28.855 pts          Java
       2.  Odd Numbers                   188 ms         4997120 bytes            30.500 pts          JS
@@ -48,6 +50,7 @@ Solved 15 challenges
      13.  Multiply Lists                 76 ms         3489141 bytes            31.534 pts          Ruby
      14.  Reverse Words                  74 ms         3478173 bytes            31.928 pts          Ruby
      15.  Find a Writer                  92 ms         3550637 bytes            31.291 pts          Ruby
+     16.  Word To Digit                  78 ms         3494488 bytes            32.441 pts          Ruby
      
 ### Moderate
 
