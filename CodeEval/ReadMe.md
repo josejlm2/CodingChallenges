@@ -20,20 +20,20 @@ with the level of the challenges in the website. Within each folder, the
 challenges are separated into the languages that were used to solve the 
 problem. 
 
-##Code Rank: 1247 / 5k
+##Code Rank: 1206 / 5k
 
-      World:            3,608 out of 15,788    
-      United States:    1,785 out of  6,934     
+      World:            3,516 out of 15,809    
+      United States:    1,738 out of  6,934     
       College Sation:       2 out of     10    
       
-      Points:                   708.534 pts
+      Points:                   739.880 pts
 
 
-##Code Eval Problems(20 Completed)
+##Code Eval Problems(21 Completed)
 
 ### Easy
 
-Solved 17 challenges
+Solved 18 challenges
 
       1.  Fizz Buzz                     444 ms         6164480 bytes         28.855 pts        Java
       2.  Odd Numbers                   188 ms         4997120 bytes         30.500 pts        JS
@@ -51,7 +51,8 @@ Solved 17 challenges
      14.  Reverse Words                  74 ms         3478173 bytes         31.928 pts        Ruby
      15.  Find a Writer                  92 ms         3550637 bytes         31.291 pts        Ruby
      16.  Word To Digit                  78 ms         3494488 bytes         32.441 pts        Ruby
-     17.  Age Distribtuion             2071 ms         1609728 bytes         29.454 pts        Scala        
+     17.  Age Distribtuion             2071 ms         1609728 bytes         29.454 pts        Scala
+     18.  Simple Sorting                 78 ms         3560662 bytes         31.346 pts        Ruby
      
      
 ### Moderate
