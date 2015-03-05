@@ -35,23 +35,23 @@ problem.
 
 Solved 17 challenges
 
-      1.  Fizz Buzz                     444 ms         6164480 bytes            28.855 pts          Java
-      2.  Odd Numbers                   188 ms         4997120 bytes            30.500 pts          JS
-      3.  File Size                     156 ms         4972544 bytes            30.577 pts          C#
-      4.  Even Numbers                  269 ms         6438912 bytes            29.155 pts          Java
-      5.  Multiplication Tables         108 ms         7036928 bytes            28.939 pts          PHP
-      6.  Lowercase                     221 ms         3723264 bytes            31.506 pts          Python 3
-      7.  Prime Palindrome              119 ms         3467690 bytes            31.852 pts          Ruby
-      8.  Sum of Digits                  72 ms         3470353 bytes            32.038 pts          Ruby
-      9.  Sum of Primes                6082 ms         4583424 bytes            20.530 pts          Ruby
-     10.  Sum of Integers From File      72 ms         3465737 bytes            34.077 pts          Ruby
-     11.  Longest Word                   74 ms         3480197 bytes            31.847 pts          Ruby
-     12.  Bit Positions                  73 ms         3479535 bytes            34.415 pts          Ruby
-     13.  Multiply Lists                 76 ms         3489141 bytes            31.534 pts          Ruby
-     14.  Reverse Words                  74 ms         3478173 bytes            31.928 pts          Ruby
-     15.  Find a Writer                  92 ms         3550637 bytes            31.291 pts          Ruby
-     16.  Word To Digit                  78 ms         3494488 bytes            32.441 pts          Ruby
-     17.  Age Distribtuion             2071 ms         1609728 bytes            29.454 pts          Scala        
+      1.  Fizz Buzz                     444 ms         6164480 bytes          28.855 pts          Java
+      2.  Odd Numbers                   188 ms         4997120 bytes          30.500 pts          JS
+      3.  File Size                     156 ms         4972544 bytes          30.577 pts          C#
+      4.  Even Numbers                  269 ms         6438912 bytes          29.155 pts          Java
+      5.  Multiplication Tables         108 ms         7036928 bytes          28.939 pts          PHP
+      6.  Lowercase                     221 ms         3723264 bytes          31.506 pts          Python 3
+      7.  Prime Palindrome              119 ms         3467690 bytes          31.852 pts          Ruby
+      8.  Sum of Digits                  72 ms         3470353 bytes          32.038 pts          Ruby
+      9.  Sum of Primes                6082 ms         4583424 bytes          20.530 pts          Ruby
+     10.  Sum of Integers From File      72 ms         3465737 bytes          34.077 pts          Ruby
+     11.  Longest Word                   74 ms         3480197 bytes          31.847 pts          Ruby
+     12.  Bit Positions                  73 ms         3479535 bytes          34.415 pts          Ruby
+     13.  Multiply Lists                 76 ms         3489141 bytes          31.534 pts          Ruby
+     14.  Reverse Words                  74 ms         3478173 bytes          31.928 pts          Ruby
+     15.  Find a Writer                  92 ms         3550637 bytes          31.291 pts          Ruby
+     16.  Word To Digit                  78 ms         3494488 bytes          32.441 pts          Ruby
+     17.  Age Distribtuion             2071 ms         1609728 bytes          29.454 pts          Scala        
      
      
 ### Moderate
