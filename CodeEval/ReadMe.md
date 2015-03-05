@@ -51,7 +51,7 @@ Solved 18 challenges
      14.  Reverse Words                  74 ms         3478173 bytes         31.928 pts        Ruby
      15.  Find a Writer                  92 ms         3550637 bytes         31.291 pts        Ruby
      16.  Word To Digit                  78 ms         3494488 bytes         32.441 pts        Ruby
-     17.  Age Distribtuion             2071 ms         1609728 bytes         29.454 pts        Scala
+     17.  Age Distribution             2071 ms         1609728 bytes         29.454 pts        Scala
      18.  Simple Sorting                 78 ms         3560662 bytes         31.346 pts        Ruby
      
      
