@@ -1,3 +1,10 @@
+=begin
+
+Given a number n and two integers p1,p2 determine if the bits in position p1 and p2 are the same or not. 
+Positions p1 and p2 are 1 based
+
+=end
+
 def equal?(line)
 	numbers = line.split(/\W+/)
 	$binary = numbers[0].to_i.to_s(2).reverse
@@ -16,5 +23,5 @@ end
 
 $lines = "125,1,2"
 #File.open(ARGV[0]).each_line do |line|
-	equal?($lines)
+	equal?($lines) # --> false
 #end
