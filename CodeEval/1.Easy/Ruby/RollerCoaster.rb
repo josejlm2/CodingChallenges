@@ -1,3 +1,14 @@
+=begin
+	
+You are given a piece of text. Your job is to write a program that sets the case of text characters according to the following rules:
+    1. The first letter of the line should be in uppercase.
+    2. The next letter should be in lowercase.
+    3. The next letter should be in uppercase, and so on.
+    4. Any characters, except for the letters, are ignored during determination of letter case.
+
+=end
+
+
 def	RollerCoaster(line)
 	$UPPERCASE = true
 	#split the whole line into words
@@ -17,7 +28,7 @@ def	RollerCoaster(line)
 					$UPPERCASE = true
 				end		
 				
-			#else print character
+			#otherwise, just print character
 			else
 				print y
 			end
