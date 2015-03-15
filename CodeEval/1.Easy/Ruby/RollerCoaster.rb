@@ -1,6 +1,7 @@
 =begin
 	
-You are given a piece of text. Your job is to write a program that sets the case of text characters according to the following rules:
+You are given a piece of text. Your job is to write a program that sets the case of text 
+characters according to the following rules:
     1. The first letter of the line should be in uppercase.
     2. The next letter should be in lowercase.
     3. The next letter should be in uppercase, and so on.
@@ -10,13 +11,17 @@ You are given a piece of text. Your job is to write a program that sets the case
 
 
 def	RollerCoaster(line)
+	#boolean is used to keep track of when to upper-case or lower-case
 	$UPPERCASE = true
+	
 	#split the whole line into words
 	line.split().each{
 		|x|
+		
 		#split each word into characters
 		x.split(//).each{
 			|y|
+			
 			#if a letter, upcase or down case accordingly 
 			if(y =~ /[a-zA-Z]/)
 				if ($UPPERCASE == true)
@@ -33,12 +38,17 @@ def	RollerCoaster(line)
 				print y
 			end
 		}
+		
+		#when done with word, put a space
 		print(" ")
 	}
+	
+	#when done with sentence, put a new line break
 	puts ""
 end
 
 
+#Example 
 $line = "To be, or not to be: that is the question."
 $line1 = "Whether 'tis nobler in the mind to suffer."
 $line2 = "The slings and arrows of outrageous fortune."
