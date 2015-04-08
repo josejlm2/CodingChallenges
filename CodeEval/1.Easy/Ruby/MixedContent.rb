@@ -10,7 +10,7 @@ def separateWords(line)
 	$FIRST = true
 	$CONTAINS_WORDS = false
 	
-	line.split(",").each do |i|
+	line.chomp.split(",").each do |i|
 		if (i =~ /[A-Za-z]/)
 			$CONTAINS_WORDS = true
 			if ($FIRST)
