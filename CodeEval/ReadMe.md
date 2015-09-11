@@ -20,20 +20,20 @@ with the level of the challenges in the website. Within each folder, the
 challenges are separated into the languages that were used to solve the 
 problem. 
 
-##Code Rank: 1,048 / 6k
+##Code Rank: 958 / 6k
 
-      Code Eval:        3,266 out of 16,569    
-      United States:    1,603 out of  7,151     
-      College Sation:       2 out of     11    
+      Code Eval:        3,529 out of 18,388    
+      United States:    1,682 out of  7,635    
+      College Sation:       2 out of     14    
       
-      Points:                   805.605 pts
+      Points:                   901.290 pts
 
 
-##Code Eval Problems(24 Completed)
+##Code Eval Problems(25 Completed)
 
 ### Easy
 
-Solved 21 challenges
+Solved 22 challenges
 
       1.  Fizz Buzz                     444 ms         6164480 bytes         28.855 pts        Java
       2.  Odd Numbers                   188 ms         4997120 bytes         30.500 pts        JS
@@ -55,7 +55,8 @@ Solved 21 challenges
      18.  Simple Sorting                 78 ms         3560662 bytes         31.346 pts        Ruby
      19.  N Mod M                        73 ms         3472290 bytes         32.974 pts        Ruby
      20.  Roller Coaster                 92 ms         3549768 bytes         32.751 pts        Ruby
-     21.  Mixed Content                  80 ms         3548114 bytes         31.898 pts        Ruby      
+     21.  Mixed Content                  80 ms         3548114 bytes         31.898 pts        Ruby 
+     22.  Stepwise Word                  80 ms         3498962 bytes         31.939 pts        Ruby
      
      
 ### Moderate
