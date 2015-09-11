@@ -29,7 +29,7 @@ problem.
       Points:                   933.147 pts
 
 
-##Code Eval Problems(25 Completed)
+##Code Eval Problems(26 Completed)
 
 ### Easy
 
