@@ -9,12 +9,12 @@ def stepwise_words(sentence)
 		end
 	}
 	
+	#print out in the correct format
 	longestWord.split("").each_with_index{
 		|x, i|
 		star = "*" * i
 		print "#{star}#{x} "
 	}
-	
 	puts "\n"
 end
 
