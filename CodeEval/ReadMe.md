@@ -22,11 +22,11 @@ problem.
 
 ##Code Rank: 3918 / 6k
 
-      Code Eval:        3,799 out of 20,219   
-      United States:    1,760 out of  8,126    
+      Code Eval:        3,895 out of 21,801     
+      United States:    1,782 out of  8,527    
       College Sation:       2 out of     14    
       
-      Points:                   933.147 pts
+      Points:                   988.286 pts
 
 
 ##Code Eval Problems(26 Completed)
@@ -40,7 +40,7 @@ Solved 23 challenges
       3.  File Size                     156 ms         4972544 bytes         30.577 pts        C#
       4.  Even Numbers                  269 ms         6438912 bytes         29.155 pts        Java
       5.  Multiplication Tables         108 ms         7036928 bytes         28.939 pts        PHP
-      6.  Lowercase                     221 ms         3723264 bytes         31.506 pts        Python 3
+      6.  Lowercase                     221 ms         3723264 bytes         31.506 pts        Python3
       7.  Prime Palindrome              119 ms         3467690 bytes         31.852 pts        Ruby
       8.  Sum of Digits                  72 ms         3470353 bytes         32.038 pts        Ruby
       9.  Sum of Primes                6082 ms         4583424 bytes         20.530 pts        Ruby
@@ -58,6 +58,7 @@ Solved 23 challenges
      21.  Mixed Content                  80 ms         3548114 bytes         31.898 pts        Ruby 
      22.  Stepwise Word                  80 ms         3498962 bytes         31.939 pts        Ruby
      23.  Max Range Sum                 118 ms         3518098 bytes         31.857 pts        Ruby
+     24.  Unique Elements                38 ms         3400807 bytes         32.093 pts        PHP
      
      
 ### Moderate
