@@ -22,11 +22,11 @@ problem.
 
 ##Code Rank: 3918 / 6k
 
-      Code Eval:        3,799 out of 20,219   
-      United States:    1,760 out of  8,126    
+      Code Eval:        3,895 out of 21,801     
+      United States:    1,782 out of  8,527    
       College Sation:       2 out of     14    
       
-      Points:                   933.147 pts
+      Points:                   988.286 pts
 
 
 ##Code Eval Problems(26 Completed)
