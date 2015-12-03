@@ -30,11 +30,11 @@ problem.
       Points:                   1180.905 pts
 
 
-##Code Eval Problems(32 Completed)
+##Code Eval Problems(33 Completed)
 
 ### Easy
 
-Solved 28 challenges
+Solved 29 challenges
 
       1.  Fizz Buzz                     444 ms         6164480 bytes         28.855 pts        Java
       2.  Odd Numbers                   188 ms         4997120 bytes         30.500 pts        JS
@@ -64,6 +64,7 @@ Solved 28 challenges
      26.  The Major Element            1240 ms         4890624 bytes         28.749 pts        Ruby
      27.  Swap Numbers                  853 ms         1986560 bytes         31.848 pts        Ruby  
      28.  Find the Highest Score         92 ms         3578969 bytes         31.852 pts        Ruby   
+     29.  Capitalize Words               81 ms         3516582 bytes         31.924 pts        Ruby  
      
      
 ### Moderate
