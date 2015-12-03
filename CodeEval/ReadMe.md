@@ -20,17 +20,17 @@ with the level of the challenges in the website. Within each folder, the
 challenges are separated into the languages that were used to solve the 
 problem. 
 
-##Code Rank: 2537 / 6k
+##Code Rank: 2053 / 6k
 
-      Code Eval:        3,636 out of 21,801     
-      United States:    1,669 out of  8,527  
-      Houston:             14 out of     60
+      Code Eval:        3,385 out of 21,801     
+      United States:    1,180 out of  8,527  
+      Houston:             13 out of     60
       College Sation:       1 out of     14    
       
-      Points:                   1080.978 pts
+      Points:                   1180.905 pts
 
 
-##Code Eval Problems(31 Completed)
+##Code Eval Problems(32 Completed)
 
 ### Easy
 
@@ -76,4 +76,6 @@ Solved 3 challenges
 
 ### Hard
 
-Solved 0 challenges
+Solved 1 challenge
+
+      1.  String Permutations            79 ms         3557620 bytes            91.122 pts          Ruby
