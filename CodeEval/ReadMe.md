@@ -72,15 +72,9 @@ Solved 29 challenges
      25.  Penultimate Word               38 ms         3400807 bytes         32.095 pts        PHP   
      26.  The Major Element            1240 ms         4890624 bytes         28.749 pts        Ruby
      27.  Swap Numbers                  853 ms         1986560 bytes         31.848 pts        Ruby  
-<<<<<<< HEAD
      28.  Find the Highest Score         92 ms         3578969 bytes         31.852 pts        Ruby 
      29.  Capitalize Words               81 ms         3516582 bytes         31.924 pts        Ruby 	 
      30.  Time to Eat                    41 ms         3401496 bytes         32.090 pts        PHP   
-=======
-     28.  Find the Highest Score         92 ms         3578969 bytes         31.852 pts        Ruby   
-     29.  Capitalize Words               81 ms         3516582 bytes         31.924 pts        Ruby  
-     
->>>>>>> e9acc4355d3dc2b1afe56de055c033f1b87272e7
      
 ### Moderate
 
