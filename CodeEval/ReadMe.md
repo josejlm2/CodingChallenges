@@ -20,21 +20,22 @@ with the level of the challenges in the website. Within each folder, the
 challenges are separated into the languages that were used to solve the 
 problem. 
 
-##Code Rank: 2053 / 6k
+##Code Rank: 1895 / 6k
 
-      Code Eval:        3,385 out of 21,801     
-      United States:    1,180 out of  8,527  
-      Houston:             13 out of     60
+      Code Eval:        3,309 out of 22,489     
+      United States:    1,531 out of  8,684  
+	  Austin:              26 out of     88  
+      Houston:             13 out of     63
       College Sation:       1 out of     14    
       
-      Points:                   1180.905 pts
+      Points:                   1244.919 pts
 
 
-##Code Eval Problems(32 Completed)
+##Code Eval Problems(34 Completed)
 
 ### Easy
 
-Solved 28 challenges
+Solved 30 challenges
 
       1.  Fizz Buzz                     444 ms         6164480 bytes         28.855 pts        Java
       2.  Odd Numbers                   188 ms         4997120 bytes         30.500 pts        JS
@@ -63,8 +64,9 @@ Solved 28 challenges
      25.  Penultimate Word               38 ms         3400807 bytes         32.095 pts        PHP   
      26.  The Major Element            1240 ms         4890624 bytes         28.749 pts        Ruby
      27.  Swap Numbers                  853 ms         1986560 bytes         31.848 pts        Ruby  
-     28.  Find the Highest Score         92 ms         3578969 bytes         31.852 pts        Ruby   
-     
+     28.  Find the Highest Score         92 ms         3578969 bytes         31.852 pts        Ruby 
+     29.  Capitalize Words               81 ms         3516582 bytes         31.924 pts        Ruby 	 
+     30.  Time to Eat                    41 ms         3401496 bytes         32.090 pts        PHP   
      
 ### Moderate
 
