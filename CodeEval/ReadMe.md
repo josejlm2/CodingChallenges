@@ -20,19 +20,19 @@ with the level of the challenges in the website. Within each folder, the
 challenges are separated into the languages that were used to solve the 
 problem. 
 
-##Code Rank: 1689 / 6k
+##Code Rank: 1526 / 6k
 
-      Code Eval:        3,309 out of 22,489     
-      United States:    1,531 out of  8,684  
-	  Austin:              26 out of     88  
+      Code Eval:        3,076 out of 22,489     
+      United States:    1,422 out of  8,684  
+	  Austin:              21 out of     88  
       Houston:             13 out of     63
       College Sation:       1 out of     14    
       
-      Points:                  1304.296 pts
+      Points:                  1363.679 pts
 
 
 
-##Code Eval Problems(35 Completed)
+##Code Eval Problems(36 Completed)
 
 ### Easy
 
@@ -71,12 +71,13 @@ Solved 30 challenges
      
 ### Moderate
 
-Solved 4 challenges
+Solved 5 challenges
 
       1.  Longest Lines                 100 ms            4096 bytes            64.892 pts          C++
       2.  Counting Primes               799 ms         3493391 bytes            58.050 pts          Ruby
       3.  Email Validation               72 ms         3469909 bytes            64.653 pts          Ruby
-	  4.  Mth To Last Element            73 ms         3474212 bytes            59.377 pts          Ruby
+	  4.  Mth To Last Element            73 ms         3474212 bytes            59.377 pts          Ruby    
+	  5.  Remove Characters              73 ms         3470628 bytes            59.383 pts          Ruby   
 
 ### Hard
 
