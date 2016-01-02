@@ -20,7 +20,7 @@ with the level of the challenges in the website. Within each folder, the
 challenges are separated into the languages that were used to solve the 
 problem. 
 
-##Code Rank: 1526 / 6k
+##Code Rank: 1435 / 6k
 
       Code Eval:        3,076 out of 22,489     
       United States:    1,422 out of  8,684  
@@ -32,11 +32,11 @@ problem.
 
 
 
-##Code Eval Problems(36 Completed)
+##Code Eval Problems(37 Completed)
 
 ### Easy
 
-Solved 30 challenges   
+Solved 31 challenges   
 
       1.  Fizz Buzz                     444 ms         6164480 bytes         28.855 pts        Java
       2.  Odd Numbers                   188 ms         4997120 bytes         30.500 pts        JS
@@ -68,6 +68,7 @@ Solved 30 challenges
      28.  Find the Highest Score         92 ms         3578969 bytes         31.852 pts        Ruby 
      29.  Capitalize Words               81 ms         3516582 bytes         31.924 pts        Ruby 	 
      30.  Time to Eat                    41 ms         3401496 bytes         32.090 pts        PHP   
+	 31.  Swap Case                      72 ms         3465001 bytes         31.982 pts        Ruby   
      
 ### Moderate
 
