@@ -20,7 +20,7 @@ with the level of the challenges in the website. Within each folder, the
 challenges are separated into the languages that were used to solve the 
 problem. 
 
-##Code Rank: 1435 / 6k
+##Code Rank: 1356 / 6k
 
       Code Eval:        3,076 out of 22,489     
       United States:    1,422 out of  8,684  
@@ -67,8 +67,8 @@ Solved 31 challenges
      27.  Swap Numbers                  853 ms         1986560 bytes         31.848 pts        Ruby  
      28.  Find the Highest Score         92 ms         3578969 bytes         31.852 pts        Ruby 
      29.  Capitalize Words               81 ms         3516582 bytes         31.924 pts        Ruby 	 
-     30.  Time to Eat                    41 ms         3401496 bytes         32.090 pts        PHP   
-	 31.  Swap Case                      72 ms         3465001 bytes         31.982 pts        Ruby   
+     30.  Time to Eat                    41 ms         3401496 bytes         32.090 pts        PHP    
+     31.  Swap Case                      72 ms         3465001 bytes         31.982 pts        Ruby    
      
 ### Moderate
 
